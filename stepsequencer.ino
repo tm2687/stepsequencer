@@ -1,4 +1,5 @@
 #include <EEPROM.h>
+//this is an edit being made to a file
 int buttonPins[4] = {29, 30, 31, 32};
 boolean lastButtonStates[4] = { LOW, LOW, LOW, LOW };
 int ledPins[4] = {35, 36, 37, 38};
